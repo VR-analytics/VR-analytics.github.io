@@ -1,4 +1,4 @@
-## A VR analytics framework to assess the user experience of digital twins
+# A VR analytics framework to assess the user experience of digital twins
 A Turing-Manchester Feasibility Project 
 
 Duration: April – September, 2022
@@ -9,6 +9,7 @@ Digital twins are often represented through Virtual Reality/Augmented Reality (V
 In this project we will address this gap by developing an affordable VR/AR experimental framework for testing hypotheses in immersive environments including digital twins.  
 
 ### Team
+
 | Members|
 |---|
 | [Markel Vigo](https://www.research.manchester.ac.uk/portal/en/researchers/markel-vigo(8090d0ba-4cad-4d6d-a995-60faec0b6413).html) (PI, Department of Computer Science) |
