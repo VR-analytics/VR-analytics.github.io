@@ -20,5 +20,5 @@ In this project we will address this gap by developing an affordable VR/AR exper
 | Olga Menukhin (RA, Alliance Manchester Business School) |
 
 ### Outputs
-* [GitHub repository with the updated version of MRAT](https://github.com/VR-analytics/mrat-reloaded/tree/master/mrat-unity)
+* [GitHub repository with the updated version of MRAT](https://github.com/VR-analytics/mrat-reloaded)
 * [Data from user studies](https://figshare.manchester.ac.uk/account/home#/projects/151566)
