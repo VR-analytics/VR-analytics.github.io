@@ -1,5 +1,5 @@
 # VR analytics to assess the user experience in immersive digital twins
-This project has been founded through two actions of the Turing Institute at Manchester: a feasibility project first and a current consolidator project. 
+This project has been funded through two actions of the Turing Institute at Manchester: a feasibility project first and a current consolidator project. 
 
 ## Enabling human-in-the-loop interventions in immersive digital twins
 Turing-Manchester Consolidator Project
